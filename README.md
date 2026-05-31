@@ -1,4 +1,3 @@
-# Dominic Attalienti
 Computer Science Graduate | Programming Enthusiast
 
 ## Code/Writing samples
