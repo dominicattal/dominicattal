@@ -1,4 +1,8 @@
-Computer Science Graduate | Programming Enthusiast
+Computer Science Graduate | Recreational Programmer
+|
+[LinkedIn](https://www.linkedin.com/in/dominicattal/)
+|
+[Website](https://dominicattal.com/)
 
 ## Code/Writing samples
 <a href="https://github.com/dominicattal/rabbitmqphp_example">Internet Movie Database Platform</a> | HTML, CSS, Javascript, PHP, MySQL, RabbitMQ
