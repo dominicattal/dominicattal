@@ -11,7 +11,7 @@ Computer Science Graduate | Recreational Programmer
 <a href="https://github.com/dominicattal/it340-project">Gundam Marketplace Platform</a> | Angular, Typescript, Javascript, Express, Node.js, MongoDB
 - Built a full-stack marketplace platform for Gundam figures featuring searchable listings, automated data aggregation, and a responsive frontend interface.
 
-<a href="https://github.com/dominicattal/codecontest">Competitive Programming Platform</a> | HTML, CSS, Javascript, PHP, SQLite
+<a href="https://github.com/dominicattal/codecontest/tree/demo">Competitive Programming Platform</a> | HTML, CSS, Javascript, PHP, SQLite
 - Lightweight, open-source competitive programming platform for hosting local competitions.
 
 <a href="https://github.com/soiafu/resume_analyzer_team7">AI Resume Analyzer</a> | React, Javascript, Node.js, Express, OpenAI API
