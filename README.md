@@ -1,4 +1,4 @@
-Computer Science Graduate | Recreational Programmer
+Recreational Programmer
 |
 [LinkedIn](https://www.linkedin.com/in/dominicattal/)
 |
